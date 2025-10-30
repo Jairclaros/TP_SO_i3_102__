@@ -79,3 +79,38 @@ Adaptador de Ethernet vEthernet (WSL (Hyper-V firewall)):
    Máscara de subred . . . . . . . . . . . . : 255.255.240.0
    Puerta de enlace predeterminada . . . . . :
 
+ALFA:
+
+Nombre y apellido: Leandro Cespedes
+Hora: 20:53
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::7c82:e88d:be06:6870%3
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : fibertel.com.ar
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::a104:d773:1d01:3def%14
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.152
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet vEthernet (WSL):
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::6c62:3c3:b30f:454d%39
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 172.22.160.1
+   M scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+
+
