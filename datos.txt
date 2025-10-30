@@ -1,3 +1,7 @@
 Nombre: Luciano Morro
 Ip: 193.147.0.114
 Hora: Thu Oct 30 09:30:24     2025
+
+Nombre y apellido: Leandro Cespedes
+IP: 192.164.0.112
+Hora: 09:56
