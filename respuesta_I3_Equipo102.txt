@@ -9,3 +9,15 @@ Respuestas:
 a- El master queda con los archivos unificados de la rama Morro y la rama Claros
 b- Si, pude ver todos los cambios 
 c- Para hacer el merge primero hice el git clone del repositorio, después me metí a la carpeta del clone, y ejecute el git bash, puse el comando git fetch --all, git branch ( para asegurarme que estoy en el main ), hice un git merge -m "Hago el merge" y por ultimo hice un git origin main ( para subir el merge al GitHub ) 
+
+d-Después de que BETA realiza el merge con la rama main, la rama de BETA y la rama de GAMMA no se actualizan automáticamente. Si se desean actualizar se usa: git checkout <rama>, git pull origin master
+
+e-Que al hacer el comando "git merge Morro" salia un error  que se solucionaba poniendo el comando !wq y para evitar ese error en el comando merge habia que hacerlo asi "git merge -m Morro "Comentario" "
+
+f-git branch -a
+git checkout apellido de beta
+git pull origin apellido de beta
+Notepad beta.txt
+git add beta.txt
+git commit -m "Agregue nombre, hora y la informacion de ifconfig a beta.txt"
+git push origin apellido de beta
