@@ -21,3 +21,11 @@ Notepad beta.txt
 git add beta.txt
 git commit -m "Agregue nombre, hora y la informacion de ifconfig a beta.txt"
 git push origin apellido de beta
+
+g-Los comandos que uso ALFA para poder hacer lo pedido en el punto 8 son:
+git fetch origin
+git branch -a 
+git checkout rama de BETA
+git add .
+git commit -m "modifique el archivo beta.txt"
+git push 
